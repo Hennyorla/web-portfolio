@@ -1,0 +1,26 @@
+main{
+    background-color:black !important;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+@media only screen and (max-width: 630px) {
+    .skill-item{
+        margin:30px 40px !important;
+    }
+}
+@media only screen and (max-width :1016px) {
+    .skill-class{
+        margin-top: 40px !important;
+    }
+}
+  .hero-text{
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+}
+.hero-skill{
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+}
+.hero-project{
+    margin-bottom: 100px !important;
+}
